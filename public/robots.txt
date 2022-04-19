@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://otherreality.net/learnings/sitemap.xml
